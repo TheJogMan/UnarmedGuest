@@ -1,0 +1,6 @@
+name: UnarmedGuest
+main: unarmedGuest.UnarmedGuest
+author: TheJogMan
+depend: [GuestMode]
+version: 1.0
+api-version: 1.19
